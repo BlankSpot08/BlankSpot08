@@ -1,5 +1,5 @@
 Frameworks:
-  Spring, VueJs, JavaFx
+  [Spring](https://spring.io/), VueJs, JavaFx
 
 Tools:
   Intellij Ultimate, PyCharm, DataGrip, Docker, Postman, WebStorm
