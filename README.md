@@ -1,7 +1,7 @@
 Frameworks:
   Spring, VueJs, JavaFx
 
-Tools:                                                                        
+Tools:
   Intellij Ultimate, PyCharm, DataGrip, Docker, Postman, WebStorm
   
 Database:
