@@ -1,8 +1,8 @@
 Frameworks:
   Spring, VueJs, JavaFx
 
-Tools:
-  Intellij Ultimate, PyCharm, DataGrip, Docker, Postman
+Tools:                                                                        
+  Intellij Ultimate, PyCharm, DataGrip, Docker, Postman, WebStorm
   
 Database:
   MySQL, PostgreSQL, MongoDB
